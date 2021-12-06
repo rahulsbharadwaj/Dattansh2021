@@ -1854,6 +1854,8 @@ fieldset[disabled] .form-control {
 	bottom: 0;
 	left: 0;
 	right: 0;
+	width: auto;
+	height: auto;
 	margin: auto;
 	background-position: center;
 	background: url(images/dattansh_logo-removebg-preview.png) no-repeat center;
